@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1587202232 source:c:\users\-utilisateur-\documents\progets c++\befunge\main.cpp
+	<iostream>
+	<vector>
+	"divers.h"
+	"Memoire.h"
+	"Pile.h"
+	<ctime>
+
+1587056157 source:c:\users\-utilisateur-\documents\progets c++\befunge\divers.cpp
+	"divers.h"
+
+1587140799 c:\users\-utilisateur-\documents\progets c++\befunge\divers.h
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+
+1587202552 source:c:\users\-utilisateur-\documents\progets c++\befunge\memoire.cpp
+	"Memoire.h"
+
+1587140979 c:\users\-utilisateur-\documents\progets c++\befunge\memoire.h
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1587142677 source:c:\users\-utilisateur-\documents\progets c++\befunge\pile.cpp
+	"Pile.h"
+
+1587142841 c:\users\-utilisateur-\documents\progets c++\befunge\pile.h
+	<string>
+
